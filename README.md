@@ -1,4 +1,4 @@
-# **Develop Solutions to Optimize Logistics in Food DeliverY** 
+# **Develop Solutions to Optimize Logistics in Food Delivery** 
 
 # Problem Statement 
 + Design and implement an algorithm to optimize food delivery rider assignments and routes in the city of Lucknow.
