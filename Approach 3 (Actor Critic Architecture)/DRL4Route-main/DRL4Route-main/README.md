@@ -7,7 +7,7 @@ DRL4Route: A Deep Reinforcement Learning Framework for Pick-up and Delivery Rout
 # Usage
 Use the following command to run the code: `python run.py`
 
-# Repo Structure
+#Structure
 The structure of our code and description of important files are given as follows:  
 │    │────algorithm/  
 │    │    │────DRL4Route/:  code of DRL4Route for pick-up route prediction in logistics    
